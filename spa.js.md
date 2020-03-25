@@ -1,6 +1,7 @@
 # spa.js
 Funciones de utilidad general para el trabajo con APIs en una SPA.
 
+* TOC
 {:toc}
 
 ## spa.router
