@@ -2,10 +2,7 @@
 
 Librerías para desarrollo de aplicaciones web con VueJS
 
-## Indice por librerías
+## Librerías
 
-- Single Page Applications (SPA):
-  - [spa.js](spa.md)
-  - [api.js](api.md)
-
-## Indice por nombre de funciones/componentes
+* [spa.js](spa.js.md)
+* [api.js](api.js.md)
